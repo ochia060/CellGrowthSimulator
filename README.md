@@ -1,0 +1,51 @@
+- **Project Name**
+        - Heading 1
+        - 40 - 80 words
+        - What does your code do?
+        - What problem does it solve?
+        - Replace heading with your own project name.
+        - The project name should resemble your repository name, but it does not need to be identical.
+- **Highlights**
+    - Heading 2
+    - 3 - 10 words per bullet point
+    - Include 5 bullet points in an unordered list.
+    - Begin each bullet point with a strong action verb.
+        - E.g., https://capd.mit.edu/resources/resume-action-verbs/
+    - Focus on significant technical work, such as what you built, designed, implemented, optimized, tested, or
+      learned.
+    - Consider what you would want a potential employer to know about your Python skills after reading this section.
+    - Avoid using this section as a feature list
+- **Environment**
+  - Heading 2
+  - List the Python version and all libraries used in the project, including version numbers.
+  - Use an unordered list.
+  - List Python first, followed by the libraries in alphabetical order.
+  - Only include libraries that were actually used in the project. Do not include packages that are installed in
+    your environment but were not used.
+- **Code Design**
+    - Heading 2
+    - 500 - 1000 words
+    - Describe the workflow of the program after `main.py` is executed.
+    - Explain the purpose of each major stage of the workflow and why it exists.
+    - Examples of major stages include data loading, preprocessing, feature engineering, training, evaluation, and
+      visualization.
+    - Do not simply list the functions and classes that are called.
+    - Organize this section using Heading 3 subsections.
+    - For each subsection, describe:
+        - What does this stage of the workflow do?
+        - Why is this stage necessary?
+        - How does this stage contribute to the overall workflow?
+- **Analysis**
+    - Heading 2
+    - 1000 - 2000 words
+    - Justify your choice of model architecture, including both the model and hyperparameters.
+    - Compare your selected model against reasonable alternatives.
+    - Provide evidence supporting your conclusions. Evidence may include exported CSV tables, PNG figures, or both.
+    - Discuss the advantages and limitations of your model.
+    - Explain how temperature, pH, glucose concentration, and lactate concentration influence specific growth rate.
+    - Describe cell culture conditions:
+        - that result in a high specific growth rate.
+        - that result in a low specific growth rate.
+        - where the model's predictions may not be reliable.
+    - Describe potential applications of the model and how it could be used in practice.
+    - Organize this section using Heading 3 subsections.
