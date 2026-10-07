@@ -1,11 +1,11 @@
-- **Project Name**
+# Cell Growth Simulator
         - Heading 1
         - 40 - 80 words
         - What does your code do?
         - What problem does it solve?
         - Replace heading with your own project name.
-        - The project name should resemble your repository name, but it does not need to be identical.
-- **Highlights**
+        - The project name should resemble your repository name, but it does not need to be identical. 
+## Highlights
     - Heading 2
     - 3 - 10 words per bullet point
     - Include 5 bullet points in an unordered list.
@@ -15,14 +15,14 @@
       learned.
     - Consider what you would want a potential employer to know about your Python skills after reading this section.
     - Avoid using this section as a feature list
-- **Environment**
+## Environment
   - Heading 2
   - List the Python version and all libraries used in the project, including version numbers.
   - Use an unordered list.
   - List Python first, followed by the libraries in alphabetical order.
   - Only include libraries that were actually used in the project. Do not include packages that are installed in
     your environment but were not used.
-- **Code Design**
+## Code Design
     - Heading 2
     - 500 - 1000 words
     - Describe the workflow of the program after `main.py` is executed.
@@ -35,7 +35,7 @@
         - What does this stage of the workflow do?
         - Why is this stage necessary?
         - How does this stage contribute to the overall workflow?
-- **Analysis**
+## Analysis**
     - Heading 2
     - 1000 - 2000 words
     - Justify your choice of model architecture, including both the model and hyperparameters.
